@@ -13,7 +13,7 @@
 - 💬 Ask me about **React, VueJS, NextJS, MERN stack**
 
 - 📫 How to reach me **navjot.singh952000@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1KE9sSEdrtV3APXWW2jDq66r0ay2UeqS9/view?usp=sharing) [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+- 📄 Check out my [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1KE9sSEdrtV3APXWW2jDq66r0ay2UeqS9/view?usp=sharing)
 
 - ⚡ Fun fact : 🏔️ & 🎵 I'm passionate about both mountains and music. Mountains offer me serenity and adventure, while music fuels my coding sessions with rhythmic inspiration. Whether scaling peaks or crafting code, the harmony of mountains and music is an integral part of my adventurous life! 🌄🎶
 
