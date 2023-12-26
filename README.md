@@ -35,9 +35,8 @@ Let's connect and code the future together! ✨ -->
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KE9sSEdrtV3APXWW2jDq66r0ay2UeqS9/view?usp=sharing](https://drive.google.com/file/d/1KE9sSEdrtV3APXWW2jDq66r0ay2UeqS9/view?usp=sharing)
 
-- ⚡ Fun fact **🏔️ & 🎵 Fun Fact: I'm passionate about both mountains and music. Mountains offer me serenity and adventure, while music fuels my coding sessions with rhythmic inspiration. Whether scaling peaks or crafting code, the harmony of mountains and music is an integral part of my adventurous life! 🌄🎶**
+- ⚡ Fun fact : 🏔️ & 🎵 I'm passionate about both mountains and music. Mountains offer me serenity and adventure, while music fuels my coding sessions with rhythmic inspiration. Whether scaling peaks or crafting code, the harmony of mountains and music is an integral part of my adventurous life! 🌄🎶
 
-- 
 ## Tech Stack
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
