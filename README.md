@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **React, VueJS, NextJS, MERN stack**
 
-- 📫 How to reach me **navjot.singh952000@gmail.com**
+- 📫 How to reach me [Email](mailto:navjot.singh952000@gmail.com)
 
-- ⚡ Fun fact : 🏔️ & 🎵 I'm passionate about both mountains and music. Mountains offer me serenity and adventure, while music fuels my coding sessions with rhythmic inspiration. Whether scaling peaks or crafting code, the harmony of mountains and music is an integral part of my adventurous life! 🌄🎶
+- ⚡ Fun fact : 🏔️ & 🎵  I love mountains and music, finding inspiration in both for coding adventures. 🌄🎶
 
 ## Tech Stack
 ### Languages
