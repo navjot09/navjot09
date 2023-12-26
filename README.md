@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navjot09&label=Profile%20views&color=0e75b6&style=flat" alt="navjot09" /> </p>
-- 🔭 I’m currently working on [GroceEase](https://github.com/navjot09/GroceEase)
+- 🔭 I’m currently working on ![GroceEase](https://github.com/navjot09/GroceEase)
 
 - 🌱 I’m currently learning **NextJS, React Native**
 
