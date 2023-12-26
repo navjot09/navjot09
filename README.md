@@ -25,8 +25,6 @@ Let's connect and code the future together! ✨ -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navjot09&label=Profile%20views&color=0e75b6&style=flat" alt="navjot09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navjot09" alt="navjot09" /></a> </p>
-
 - 🔭 I’m currently working on [GroceEase](https://github.com/navjot09/GroceEase)
 
 - 🌱 I’m currently learning **NextJS, React Native**
