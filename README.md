@@ -13,7 +13,6 @@
 - 💬 Ask me about **React, VueJS, NextJS, MERN stack**
 
 - 📫 How to reach me **navjot.singh952000@gmail.com**
-- 📄 Check out my [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1KE9sSEdrtV3APXWW2jDq66r0ay2UeqS9/view?usp=sharing)
 
 - ⚡ Fun fact : 🏔️ & 🎵 I'm passionate about both mountains and music. Mountains offer me serenity and adventure, while music fuels my coding sessions with rhythmic inspiration. Whether scaling peaks or crafting code, the harmony of mountains and music is an integral part of my adventurous life! 🌄🎶
 
@@ -47,7 +46,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navjot-singh09/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navjot09)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navjot.singh952000@gmail.com)
-
+ [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1KE9sSEdrtV3APXWW2jDq66r0ay2UeqS9/view?usp=sharing)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navjot09&show_icons=true&locale=en&layout=compact&theme=transparent" alt="navjot09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navjot09&show_icons=true&locale=en&theme=transparent" alt="navjot09" /></p>
