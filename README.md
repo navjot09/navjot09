@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **NextJS, React Native**
 - 👯 I’m looking to collaborate on open-source frontend and backend projects, driven by a passion for user-centric design and scalable solutions.
 - 💬 Ask me about **React, VueJS, NextJS, MERN stack**
-- 📫 How to reach me [Email](mailto:navjot.singh952000@gmail.com)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/navjot-singh09/)
 - ⚡ Fun fact: 🏔️ & 🎵 I love mountains and music, finding inspiration in both for coding adventures. 🌄🎶
 
 ## Tech Stack
